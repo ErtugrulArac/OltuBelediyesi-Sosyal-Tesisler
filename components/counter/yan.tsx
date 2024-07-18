@@ -1,4 +1,5 @@
-import React, { use } from 'react'
+"use client"
+import React  from 'react'
 import CountUp from 'react-countup';
 import { useInView } from 'react-intersection-observer';
 

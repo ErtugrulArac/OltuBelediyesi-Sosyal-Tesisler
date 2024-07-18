@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import Yantaraf from './yantaraf'
+import Yantaraf from './yan'
 
 const index = () => {
     return (

@@ -10,7 +10,7 @@ const HeroSection = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <div className="flex space-x-4">
-            <button className="bg-black text-white py-2 px-4 rounded">İletişim</button>
+            <a href='/iletisim' className="bg-black text-white py-2 px-4 rounded">İletişim</a>
             <a href='https://oltu.bel.tr/' className="bg-[#8B38CB] text-white py-2 px-4 rounded">Belediyemiz</a>
           </div>
           <div className="flex space-x-4 mt-8">

@@ -3,7 +3,7 @@ import React  from 'react'
 import CountUp from 'react-countup';
 import { useInView } from 'react-intersection-observer';
 
-const yantaraf = () => {
+const Yantaraf = () => {
     const [ref, inView] = useInView({
         triggerOnce: true, // Sadece bir kez tetikle
     });
@@ -28,4 +28,4 @@ const yantaraf = () => {
     )
 }
 
-export default yantaraf
+export default Yantaraf

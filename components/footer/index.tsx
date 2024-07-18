@@ -20,7 +20,7 @@ const Footer = () => {
                 <li><a href="#" className="text-sm hover:underline">Press</a></li>
               </ul>
             </div>
-            <div>
+            <div className='max-md:hidden'>
               <h4 className="text-lg font-bold mb-4">Help</h4>
               <ul>
                 <li><a href="#" className="text-sm hover:underline">Contact</a></li>

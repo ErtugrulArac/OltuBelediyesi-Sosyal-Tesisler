@@ -74,3 +74,10 @@
   height: 500px;
   background-attachment: fixed;
 }
+.oltu{
+  background-image: url('https://oltu.bel.tr/tema/genel/uploads/slider/333.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  
+}

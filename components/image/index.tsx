@@ -11,7 +11,7 @@ import {
 
 export default function CarouselSpacing() {
   return (
-    <div className="justify-center items-center w-full py-20 max-lg:pb-10 max-lg:pt-2 max-lg:py-0  bg-white flex">
+    <div className="justify-center items-center w-full py-20 max-md:mb-6 max-lg:pb-10 max-lg:pt-2 max-lg:py-0  bg-white flex">
 
       <Carousel
        plugins={[

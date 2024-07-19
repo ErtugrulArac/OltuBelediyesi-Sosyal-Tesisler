@@ -8,19 +8,19 @@ const bilgiler = () => {
             </div>
             <h4 className='text-6xl max-md:text-4xl font-fontpopins'>-İLETİŞİM-</h4>
             <div className='flex flex-col items-center'>
-                <p className='text-xl max-md:text-lg font-semibold'>+90 0530 746 4899</p>
-                <p className='text-xl max-md:text-lg font-semibold'>+90 0544 782 4655</p>
+                <p className='text-xl max-md:text-lg font-semibold'>+90 0500 000 0000</p>
+                <p className='text-xl max-md:text-lg font-semibold'>+90 0500 000 0000</p>
                 <p className='text-2xl max-md:text-lg'>oltubelediyesi@gmail.com</p>
             </div>
             <p className='text-center'>Cumhuriyet, Cumhuriyet Blv. No:144, 25400 Oltu/Erzurum</p>
             <div className='flex gap-5 '>
-                <a title='belediye instagram' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://www.instagram.com/arlanmedya/">
+                <a title='belediye instagram' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://www.instagram.com/oltubelediye/">
                     <img src="instagram.svg" alt="qr menü instagram" />
                 </a>
-                <a title='belediye facebook' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://www.facebook.com/profile.php?id=61552451652567&paipv=0&eav=Afazva3lQXsO8wlU165om_7H6NcrVX-jTE6xkmllfgDo-svhTgWjynqU3FpaGMYRFdo">
+                <a title='belediye facebook' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://www.facebook.com/p/Oltu-Belediyesi-Sosyal-Tesisleri-100083250535453/">
                     <img src="facebook.svg" alt="qr menü facebook" />
                 </a>
-                <a title='belediye x' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://www.linkedin.com/company/arlan-medya">
+                <a title='belediye x' className='w-14 max-md:w-8' target='_blank' rel="nofollow" href="https://x.com/oltubelediyesi">
                     <img src="x.svg" alt="qr menü linkedn" />
                 </a>
                 

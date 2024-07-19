@@ -4,7 +4,7 @@ import React from 'react'
 const index = () => {
   return (
     <div id='inceleyin' className='scroll-mt-[100px] flex mb-44 max-md:mb-20  justify-center items-center w-[80%] m-auto mt-20 max-md:mt-0 max-lg:flex-col max-lg:w-full max-xl:w-[90%]'>
-      <div className=' flex items-center justify-center    m-auto max-lg:flex-col max-lg:gap-16 max-lg:w-[70%] '>
+      <div className=' flex items-center justify-center    m-auto max-lg:flex-col max-lg:gap-16 max-lg:w-[90%] '>
         <div className='flex flex-col gap-10 max-md:gap-6'>
           <h2 className='text-black font-fontpopins text-4xl w-[80%] font-extrabold max-lg:text-3xl max-xl:text-3xl  max-md:text-2xl max-lg:w-full'>Oltu Belediyesi Sosyal Tesislerinin İmkanları Nelerdir? </h2>
           <ul className='flex flex-col gap-3 mt-7 text-black'>

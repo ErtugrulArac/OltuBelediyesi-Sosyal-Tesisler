@@ -5,6 +5,7 @@ import Bg from "@/components/bg/index"
 import Question from "@/components/question/index"
 import Counter from "@/components/counter/index"
 import Gif from "@/components/gif/index"
+import Resim from "@/components/image/index"
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
       <About />
       <Bg />
       <Question />
+      <Resim />
+
       <Gif />
       <Counter />
     </main>
